@@ -1,0 +1,38 @@
+-----Stemming-----
+Index 2: was
+Porter stem: wa
+Lancaster stem: was
+
+Index 10: Germany
+Porter stem: germani
+Lancaster stem: germany
+
+Index 18: weeks
+Porter stem: week
+Lancaster stem: week
+
+Index 19: later
+Porter stem: later
+Lancaster stem: lat
+
+Index 21: family
+Porter stem: famili
+Lancaster stem: famy
+
+Index 22: moved
+Porter stem: move
+Lancaster stem: mov
+
+Index 42: Italy
+Porter stem: itali
+Lancaster stem: ita
+
+-----Lemmatization-----
+Waves ---> Waves
+fishing ---> fishing
+rocks ---> rock
+was ---> wa
+corpora ---> corpus
+better ---> better
+ate ---> ate
+broken ---> broken

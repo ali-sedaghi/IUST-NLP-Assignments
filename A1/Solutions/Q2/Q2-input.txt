@@ -1,0 +1,4 @@
+In digital image processing and computer vision, image segmentation is the process of partitioning a digital image into multiple image segments, also known as image regions or image objects.
+The goal of segmentation is to simplify and change the representation of an image into something that is more meaningful and easier to analyze.
+Image segmentation is typically used to locate objects and boundaries in images.
+More precisely, image segmentation is the process of assigning a label to every pixel in an image such that pixels with the same label share certain characteristics.
